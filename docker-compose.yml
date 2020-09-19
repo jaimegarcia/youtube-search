@@ -1,0 +1,12 @@
+version: '3.7'
+networks:
+  youtube_net:
+services:
+  youtube_server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    ports:
+     - "80:80"
+    networks:
+    - youtube_net
