@@ -41,7 +41,7 @@ async def read_root():
 
 
 @app.get("/api/search")
-async def youtube_search(query: str = '',order: str = 'viewCount', pagetoken: str = None):
+async def youtube_search(query: str = '',order: str = 'date', pagetoken: str = None):
   """Get list of youtube videos from query including View Count
   Query Params:
     query (str): Video query term to search for
