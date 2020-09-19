@@ -1,18 +1,36 @@
 import sys
 
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 from key import api_key
 from helpers import get_videos_ids,get_videos_data
 
-version = f"{sys.version_info.major}.{sys.version_info.minor}"
 
-MAX_RESULTS=5
 
 app = FastAPI()
 
+origins = [
+    "http://localhost",
+    "http://localhost:3000",
+]
+
+
+version = f"{sys.version_info.major}.{sys.version_info.minor}"
+
+MAX_RESULTS=50
+
+app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=['*'],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 youtube = build('youtube', 'v3', developerKey=api_key)
 
@@ -23,7 +41,7 @@ async def read_root():
 
 
 @app.get("/api/search")
-async def youtube_search(query: str = '',order: str = 'relevance', pagetoken: str = None):
+async def youtube_search(query: str = '',order: str = 'viewCount', pagetoken: str = None):
   """Get list of youtube videos from query including View Count
   Query Params:
     query (str): Video query term to search for
@@ -39,11 +57,9 @@ async def youtube_search(query: str = '',order: str = 'relevance', pagetoken: st
   if videos_ids=="":
     return {"error":"No videos match the query"}
 
-  print("videosids:",videos_ids)
-
   statistics_response = youtube.videos().list(part='statistics', id=videos_ids).execute()
 
   videos_data=get_videos_data(search_response,statistics_response)
 
 
-  return {"videos":videos_data,"prevPageToken":search_response.get('prevPageToken'),"nextPageToken":search_response.get('nextPageToken')}
+  return {"videos":videos_data,"prev_page_token":search_response.get('prevPageToken'),"next_page_token":search_response.get('nextPageToken')}

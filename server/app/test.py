@@ -431,7 +431,8 @@ class TestYoutubeSearchHelpers(unittest.TestCase):
       "title": "Pari&#39;s Magical Beauty Parlour | Pari Doing Makeup | Funny Video",
       "description": "In today's Video i have opened a Beauty Parlour and i am doing very beautiful makeup of customers . So watch it and enjoy. Links to buy the products = 1. Magic ...",
       "channel_title": "Pari's Lifestyle",
-      "image": "https://i.ytimg.com/vi/gSa0e34EZyQ/mqdefault.jpg",
+      "image_low_res": "https://i.ytimg.com/vi/gSa0e34EZyQ/mqdefault.jpg",
+      "image_high_res": "https://i.ytimg.com/vi/gSa0e34EZyQ/hqdefault.jpg",
       "published_at": "2019-06-16T06:30:05Z",
       "view_count": "49939877"
     }, {
@@ -439,7 +440,8 @@ class TestYoutubeSearchHelpers(unittest.TestCase):
       "title": "Giant Surprise Egg 1 - Barbie, Monster High, Peppa Pig, and Play Doh - Toys R Us Shopping Spree",
       "description": "Giant Surprise Egg 1 is the first in a new series from Kaylee Bug Tv. Kaylee goes shopping for Barbie, Monster High, Peppa Pig, Play Doh, and more. All of these ...",
       "channel_title": "Kaylee Bug Tv",
-      "image": "https://i.ytimg.com/vi/YxoSmwXhvdw/mqdefault.jpg",
+      "image_low_res": "https://i.ytimg.com/vi/YxoSmwXhvdw/mqdefault.jpg",
+      "image_high_res": "https://i.ytimg.com/vi/YxoSmwXhvdw/hqdefault.jpg",
       "published_at": "2015-09-13T05:10:15Z",
       "view_count": "49737287"
     }, {
@@ -447,7 +449,8 @@ class TestYoutubeSearchHelpers(unittest.TestCase):
       "title": "Trying TJ MAXX Makeup For The First Time",
       "description": "HEY EVERYONE... Welcome BACK to my channel! Today I go to TJ MAXX for the first time in 10 years and try to find a full face of makeup! Follow me on this ...",
       "channel_title": "jeffreestar",
-      "image": "https://i.ytimg.com/vi/ZAxhEUfpSss/mqdefault.jpg",
+      "image_low_res": "https://i.ytimg.com/vi/ZAxhEUfpSss/mqdefault.jpg",
+      "image_high_res": "https://i.ytimg.com/vi/ZAxhEUfpSss/hqdefault.jpg",
       "published_at": "2019-02-22T17:59:38Z",
       "view_count": "23965302"
     }, {
@@ -455,7 +458,8 @@ class TestYoutubeSearchHelpers(unittest.TestCase):
       "title": "Prank Calling Makeup Stores! ft. Larray",
       "description": "HI SISTERS! In today's new video I prank called makeup stores like Morphe, Ulta, and Sephora to ask them what they thought about me and my palette.",
       "channel_title": "James Charles",
-      "image": "https://i.ytimg.com/vi/AOkVEwMQOTM/mqdefault.jpg",
+      "image_low_res": "https://i.ytimg.com/vi/AOkVEwMQOTM/mqdefault.jpg",
+      "image_high_res": "https://i.ytimg.com/vi/AOkVEwMQOTM/hqdefault.jpg",
       "published_at": "2020-07-14T19:00:06Z",
       "view_count": "8816624"
     }, {
@@ -463,7 +467,8 @@ class TestYoutubeSearchHelpers(unittest.TestCase):
       "title": "Letting The Person In Front of Me Decide My Makeup Routine",
       "description": "HI SISTERS! In today's video, I wanted to take on the Drive Thru challenge... but make it a Makeup Challenge! I went to Ulta and let The Person In Front Of Me ...",
       "channel_title": "James Charles",
-      "image": "https://i.ytimg.com/vi/5kI9fsf0S-c/mqdefault.jpg",
+      "image_low_res": "https://i.ytimg.com/vi/5kI9fsf0S-c/mqdefault.jpg",
+      "image_high_res": "https://i.ytimg.com/vi/5kI9fsf0S-c/hqdefault.jpg",
       "published_at": "2019-07-19T18:00:09Z",
       "view_count": "8570335"
     }]
