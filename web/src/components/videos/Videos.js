@@ -53,7 +53,11 @@ function Videos() {
           }else{
             setHasMoreVideos(true);
           }
+        }else{
+          setHasMoreVideos(false);
         }
+      }else{
+        setHasMoreVideos(false);
       }
       
       setVideos(allVideos);
