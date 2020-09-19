@@ -3,7 +3,7 @@
  * @param  {Number} x View Count
  */
 const formatViewCount = (x) => {
-  return x.toString().replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ",");
+  return parseInt(x).toLocaleString('en');
 
 };
 
