@@ -2,43 +2,19 @@
 
 DEMO available in link provide it by email
 
-Torre Mentors allows people to get their dream jobs, by providing job searching and mentoring access
 
-This products focus on monetization. It considers two flows: 
+![alt text](https://github.com/jaimegarcia/youtube-search/blob/master/images/makrwatch-1.png?raw=true)
 
-1. Referral Aggregation: Provider give money by referral
-2. Mentoring Fee: Mentor is charged a comission for every bussines. Alternative the fee can be charged to the end users
+![alt text](https://github.com/jaimegarcia/youtube-search/blob/master/images/makrwatch-2.png?raw=true)
 
-The user enters a query composed by Skills (Jobs with any of the skills) and Organizations  (Jobs from any of the orgs) 
+![alt text](https://github.com/jaimegarcia/youtube-search/blob/master/images/makrwatch-3.png?raw=true)
 
-![alt text](https://github.com/jaimegarcia/torre-plus-jobs/blob/master/images/search.png?raw=true)
-
-![alt text](https://github.com/jaimegarcia/torre-plus-jobs/blob/master/images/search-light.png?raw=true)
-To improve UX in the Opportunities view, I am querien on sizes of 50, and showing 10 by 10. The new 50 are saved in Redux Store,
-so if the user goes back it doesn't need to query again the information. I'm also using Skeletons to improve Speed Perceptions.
-
-![alt text](https://github.com/jaimegarcia/torre-plus-jobs/blob/master/images/pagination.png?raw=true)
-
-Then, the user can check details about the Opportunity and see a shuffle of Mentors, which can help her/him to apply to the job.
-After selecting the mentor a Credit Card form is display with the rate in the mentor currency, allowing to pay for mentorship.
-
-![alt text](https://github.com/jaimegarcia/torre-plus-jobs/blob/master/images/detail.png?raw=true)
-
-
-![alt text](https://github.com/jaimegarcia/torre-plus-jobs/blob/master/images/card.png?raw=true)
-
-
-The database of users and payments remains on Stripe, I add metadata to match with the username of the mentor. 
-
-![alt text](https://github.com/jaimegarcia/torre-plus-jobs/blob/master/images/stripe.png?raw=true)
+![alt text](https://github.com/jaimegarcia/youtube-search/blob/master/images/makrwatch-4.png?raw=true)
 
 The Front End was built using React and Material UI. For testing I use React Testing Library with Jest.
 
 The Server is composed by one main file and helpers. The extracting of the videos ids from the Youtube search query 
 
-
-
-The microservices are located together but are easy to separate thanks to its struture.
 
 For testing in the backend I use Python UnitTest
 
