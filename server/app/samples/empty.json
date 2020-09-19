@@ -1,0 +1,10 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "sm7ab_BZtqY45fKXsEFF7GGeoQs",
+  "regionCode": "CO",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 50
+  },
+  "items": []
+}

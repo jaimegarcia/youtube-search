@@ -1,0 +1,1653 @@
+{
+	"videos": [{
+		"kind": "youtube#searchResult",
+		"etag": "5uf1beK-Jvmzxni40Siemvu8blY",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "GwIo3gDZCVQ"
+		},
+		"snippet": {
+			"publishedAt": "2019-09-22T08:30:00Z",
+			"channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+			"title": "Machine Learning Full Course - Learn Machine Learning 10 Hours | Machine Learning Tutorial | Edureka",
+			"description": "Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka Machine Learning ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "edureka!",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-09-22T08:30:00Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "Vg5OBWoUEzC6ppJx24hE0y0y7GI",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "ukzFI9rgwfU"
+		},
+		"snippet": {
+			"publishedAt": "2018-09-19T14:57:02Z",
+			"channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+			"title": "Machine Learning Basics | What Is Machine Learning? | Introduction To Machine Learning | Simplilearn",
+			"description": "This Machine Learning basics video will help you understand what is Machine Learning, what are the types of Machine Learning - supervised, unsupervised ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/ukzFI9rgwfU/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/ukzFI9rgwfU/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/ukzFI9rgwfU/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Simplilearn",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-09-19T14:57:02Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "ZP01dsZRyKQw9EpyyjpG8qSBD08",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "DWsJc1xnOZo"
+		},
+		"snippet": {
+			"publishedAt": "2018-09-27T15:00:04Z",
+			"channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+			"title": "Machine Learning Tutorial Part - 1 | Machine Learning Tutorial For Beginners  Part - 1 | Simplilearn",
+			"description": "This Machine Learning tutorial will help you understand why Machine Learning came into picture, what is Machine Learning, types of Machine Learning, ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/DWsJc1xnOZo/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/DWsJc1xnOZo/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/DWsJc1xnOZo/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Simplilearn",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-09-27T15:00:04Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "v_ACe1kt_FO7MOjELzEJItcc-Sc",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "RnFGwxJwx-0"
+		},
+		"snippet": {
+			"publishedAt": "2020-02-13T12:34:49Z",
+			"channelId": "UCObs0kLIrDjX2LLSybqNaEA",
+			"title": "Machine Learning with Python | Machine Learning Tutorial for Beginners | Machine Learning Tutorial",
+			"description": "Get the certificate of completion for the course, for Free: https://glacad.me/GLA_ml_python For data sets, code files and projects associated with course please ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/RnFGwxJwx-0/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/RnFGwxJwx-0/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/RnFGwxJwx-0/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Great Learning",
+			"liveBroadcastContent": "none",
+			"publishTime": "2020-02-13T12:34:49Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "QlrnGtxh6kk66HrHdo6PL7AKMVo",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "ujTCoH21GlA"
+		},
+		"snippet": {
+			"publishedAt": "2019-01-16T20:00:05Z",
+			"channelId": "UC4JX40jDee_tINbkjycV4Sg",
+			"title": "Python Machine Learning Tutorial #1 - Introduction",
+			"description": "This is my 2019 python machine learning tutorial introduction. In this video we go through setting up tensorflow and sklearn so that we are ready to start coding ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/ujTCoH21GlA/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/ujTCoH21GlA/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/ujTCoH21GlA/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Tech With Tim",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-01-16T20:00:05Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "pHgmbs5MP0X_k8YMyuqgOERZ9qY",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "GvQwE2OhL8I"
+		},
+		"snippet": {
+			"publishedAt": "2018-06-11T16:00:03Z",
+			"channelId": "UCVTlvUkGslCV_h-nSAId8Sw",
+			"title": "Neural Networks Explained - Machine Learning Tutorial for Beginners",
+			"description": "If you know nothing about how a neural network works, this is the video for you! I've worked for weeks to find ways to explain this in a way that is easy to ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/GvQwE2OhL8I/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/GvQwE2OhL8I/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/GvQwE2OhL8I/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "LearnCode.academy",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-06-11T16:00:03Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "r3pp2HyY894Gu3ydh_C4i0SZYEs",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "9f-GarcDY58"
+		},
+		"snippet": {
+			"publishedAt": "2019-08-30T05:30:00Z",
+			"channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+			"title": "Machine Learning Full Course | Learn Machine Learning | Machine Learning Tutorial | Simplilearn",
+			"description": "This complete Machine Learning full course video covers all the topics that you need to know to become a master in the field of Machine Learning. It covers all ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/9f-GarcDY58/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/9f-GarcDY58/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/9f-GarcDY58/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Simplilearn",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-08-30T05:30:00Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "fzBHSHY6p2Gar59dzbOukVkv1vw",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "I74ymkoNTnw"
+		},
+		"snippet": {
+			"publishedAt": "2018-02-20T18:00:01Z",
+			"channelId": "UCQALLeQPoZdZC4JNUboVEUg",
+			"title": "🖥️ HOW TO GET STARTED WITH MACHINE LEARNING!",
+			"description": "The #1 question I get is how to get started with Machine Learning, so join me today as we talk about this! :D SUBSCRIBE FOR MORE SEFD SCIENCE: ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/I74ymkoNTnw/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/I74ymkoNTnw/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/I74ymkoNTnw/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Jabrils",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-02-20T18:00:01Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "2lw3LEMuffbwW4mEetotG6n0HGk",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "Up6KLx3m2ww"
+		},
+		"snippet": {
+			"publishedAt": "2017-05-22T06:03:30Z",
+			"channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+			"title": "Machine Learning Algorithms | Machine Learning Tutorial | Data Science Training | Edureka",
+			"description": "Data Science Training - https://www.edureka.co/data-science-r-programming-certification-course ) This Machine Learning Algorithms Tutorial shall teach you ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/Up6KLx3m2ww/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/Up6KLx3m2ww/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/Up6KLx3m2ww/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "edureka!",
+			"liveBroadcastContent": "none",
+			"publishTime": "2017-05-22T06:03:30Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "VEZ0NCC3PxtEZHkFB-r1qhGvL8o",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "tPYj3fFJGjk"
+		},
+		"snippet": {
+			"publishedAt": "2020-03-03T15:44:00Z",
+			"channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+			"title": "TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial",
+			"description": "Learn how to use TensorFlow 2.0 in this full tutorial course for beginners. This course is designed for Python programmers looking to enhance their knowledge ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/tPYj3fFJGjk/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/tPYj3fFJGjk/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/tPYj3fFJGjk/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "freeCodeCamp.org",
+			"liveBroadcastContent": "none",
+			"publishTime": "2020-03-03T15:44:00Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "86eYwX6qMgj2S02lGanIiMYPdPY",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "60oFFvywKrQ"
+		},
+		"snippet": {
+			"publishedAt": "2017-12-30T17:00:01Z",
+			"channelId": "UCZUyPT9DkJWmS_DzdOi7RIA",
+			"title": "Machine Learning Tutorial 3  - Intro to Models",
+			"description": "Best Machine Learning book: https://amzn.to/2MilWH0 (Fundamentals Of Machine Learning for Predictive Data Analytics). Machine Learning and Predictive ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/60oFFvywKrQ/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/60oFFvywKrQ/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/60oFFvywKrQ/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Caleb Curry",
+			"liveBroadcastContent": "none",
+			"publishTime": "2017-12-30T17:00:01Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "jBpA6laBGtt8H8eVIRJ4RzAf9_0",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "uOVhmOzX4VE"
+		},
+		"snippet": {
+			"publishedAt": "2020-04-18T06:04:21Z",
+			"channelId": "UCCktnahuRFYIBtNnKT5IYyg",
+			"title": "Machine Learning Full Course - Learn Machine Learning | Machine Learning Tutorial | Intellipaat",
+			"description": "In this machine learning full course video you will learn machine learning end to end also know how to become a successful machine learning engineer.",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/uOVhmOzX4VE/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/uOVhmOzX4VE/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/uOVhmOzX4VE/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Intellipaat",
+			"liveBroadcastContent": "none",
+			"publishTime": "2020-04-18T06:04:21Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "5zIbZTyrplNqVPEJpoIYHoIL_1M",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "7eh4d6sabA0"
+		},
+		"snippet": {
+			"publishedAt": "2020-09-17T13:00:03Z",
+			"channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+			"title": "Machine Learning Tutorial (with Python &amp; Jupyter Notebook)",
+			"description": "Machine Learning Tutorial (w/ Python & Jupyter Notebook) - Learn how to build a model that can predict the kind of music people like. Subscribe for more ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/7eh4d6sabA0/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/7eh4d6sabA0/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/7eh4d6sabA0/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Programming with Mosh",
+			"liveBroadcastContent": "none",
+			"publishTime": "2020-09-17T13:00:03Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "7J9TEF-knvpFUwpY1FejE3NA1Sw",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "JyGGMyR3x5I"
+		},
+		"snippet": {
+			"publishedAt": "2019-11-08T14:00:32Z",
+			"channelId": "UCU5JicSrEM5A63jkJ2QvGYw",
+			"title": "Machine Learning: Tutorial prático usando apenas o navegador (é sensacional!!!)",
+			"description": "ALURA COM 10% DE DESCONTO: https://www.alura.com.br/promocao/news-deschamps ✅ÍNDICE: 01 - Diferença entre todos os termos: ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/JyGGMyR3x5I/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/JyGGMyR3x5I/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/JyGGMyR3x5I/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Filipe Deschamps",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-11-08T14:00:32Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "sTXQRjcMtm5tQlxcO_xcU3Vu614",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "zNhTOPQeRaU"
+		},
+		"snippet": {
+			"publishedAt": "2019-12-14T05:55:32Z",
+			"channelId": "UCCktnahuRFYIBtNnKT5IYyg",
+			"title": "Machine Learning Tutorial | Learn Machine Learning | Intellipaat",
+			"description": "Learn machine learning with this machine learning tutorial. Intellipaat Machine Learning course: ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/zNhTOPQeRaU/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/zNhTOPQeRaU/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/zNhTOPQeRaU/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Intellipaat",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-12-14T05:55:32Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "17uZkZY1QfP_TWo6x_bV-KSFhDo",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "gZvdtodOaHk"
+		},
+		"snippet": {
+			"publishedAt": "2017-06-06T23:11:39Z",
+			"channelId": "UCNDV85J-KUfcDC9v7gqvBzQ",
+			"title": "Machine Learning en Español Crear un básico &quot;Hola Mundo con 0 y 1&quot;",
+			"description": "El video esta basado en los ejercicios del curso Machine Learning de Google, muestra como utilizar sklearn, DecisionTreeClassifier y Fit como patrón de ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/gZvdtodOaHk/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/gZvdtodOaHk/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/gZvdtodOaHk/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Netzer RiveraCH",
+			"liveBroadcastContent": "none",
+			"publishTime": "2017-06-06T23:11:39Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "o075pYNdYcCNNd27Sjc6F7cI0jg",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "oxvtR803RhE"
+		},
+		"snippet": {
+			"publishedAt": "2020-09-01T05:30:01Z",
+			"channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+			"title": "Machine Learning For Absolute Beginners 2020 | Machine Learning Tutorial For Beginners | Simplilearn",
+			"description": "This Machine Learning tutorial video is designed for beginners to learn Machine Learning from scratch. You will learn, what is Machine Learning, why Machine ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/oxvtR803RhE/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/oxvtR803RhE/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/oxvtR803RhE/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Simplilearn",
+			"liveBroadcastContent": "none",
+			"publishTime": "2020-09-01T05:30:01Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "5olwkGsFPqPBrCqTe_jEEl61iTg",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "i0mTZCtXXYQ"
+		},
+		"snippet": {
+			"publishedAt": "2019-05-27T12:30:02Z",
+			"channelId": "UCQA9tK0nRK1e_Bqg0uETs8A",
+			"title": "Top 5 Channels to Learn Machine Learning | Best Machine Learning Youtube Channels | Well Academy",
+			"description": "Hello Friends welcome to Well Academy In this video i am going to Share with you Top 5 Channels to Learn Machine Learning and you can Boost up your ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/i0mTZCtXXYQ/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/i0mTZCtXXYQ/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/i0mTZCtXXYQ/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Well Academy",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-05-27T12:30:02Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "hRtBHEtF72LFwsk8BZO8wEyFnSE",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "ELE2_Mftqoc"
+		},
+		"snippet": {
+			"publishedAt": "2019-05-14T12:19:37Z",
+			"channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+			"title": "Reinforcement Learning Course - Full Machine Learning Tutorial",
+			"description": "Reinforcement learning is an area of machine learning that involves taking right action to maximize reward in a particular situation. In this full tutorial course, you ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/ELE2_Mftqoc/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/ELE2_Mftqoc/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/ELE2_Mftqoc/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "freeCodeCamp.org",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-05-14T12:19:37Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "VYCqB3AAG94E5q3INcqVfLZkqRI",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "cKxRvEZd3Mw"
+		},
+		"snippet": {
+			"publishedAt": "2016-03-30T16:59:12Z",
+			"channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+			"title": "Hello World - Machine Learning Recipes #1",
+			"description": "Six lines of Python is all it takes to write your first machine learning program! In this episode, we'll briefly introduce what machine learning is and why it's ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/cKxRvEZd3Mw/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/cKxRvEZd3Mw/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/cKxRvEZd3Mw/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Google Developers",
+			"liveBroadcastContent": "none",
+			"publishTime": "2016-03-30T16:59:12Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "BXKtbXIE5YgYJ4inZHNzTinJ_48",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "nl7kDPYD20A"
+		},
+		"snippet": {
+			"publishedAt": "2019-09-29T16:00:13Z",
+			"channelId": "UC4JX40jDee_tINbkjycV4Sg",
+			"title": "How to Get Started with Machine Learning &amp; AI",
+			"description": "So how do you get started with machine learning and AI? What should you learn first? Well in this video I will be discussing the exact things you need to learn to ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/nl7kDPYD20A/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/nl7kDPYD20A/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/nl7kDPYD20A/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Tech With Tim",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-09-29T16:00:13Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "KNuEg-GLygDEwSzEcKTm7Dkqrcg",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "pqNCD_5r0IU"
+		},
+		"snippet": {
+			"publishedAt": "2020-06-23T15:56:49Z",
+			"channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+			"title": "Scikit-Learn Course - Machine Learning in Python Tutorial",
+			"description": "Scikit-learn is a free software machine learning library for the Python programming language. Learn about machine learning using scikit-learn in this full course.",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/pqNCD_5r0IU/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/pqNCD_5r0IU/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/pqNCD_5r0IU/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "freeCodeCamp.org",
+			"liveBroadcastContent": "none",
+			"publishTime": "2020-06-23T15:56:49Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "xo0c5MOAg4q9bCqcZ0BDy3frg3c",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "dxu-beXTb3c"
+		},
+		"snippet": {
+			"publishedAt": "2019-08-06T08:26:03Z",
+			"channelId": "UCapJpINJKHzflWwCQ8Kse2g",
+			"title": "Tutorial 07: Support vector regression | Machine Learning | machine learning algorithm | svm | svr",
+			"description": "Hi, Well come to Fahad Hussain Free Computer Education! Here you can learn Complete computer Science, IT related course absolutely Free! Data Science ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/dxu-beXTb3c/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/dxu-beXTb3c/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/dxu-beXTb3c/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Fahad Hussain",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-08-06T08:26:03Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "prAyk_H1VFrg8YzRCuEpSnuJ3Tg",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "Q59X518JZHE"
+		},
+		"snippet": {
+			"publishedAt": "2018-03-01T13:47:21Z",
+			"channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+			"title": "Machine Learning With Python | Machine Learning Tutorial | Python Machine Learning | Simplilearn",
+			"description": "This Machine Learning with Python tutorial gives an introduction to Machine Learning and how to implement Machine Learning algorithms in Python. By the end ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/Q59X518JZHE/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/Q59X518JZHE/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/Q59X518JZHE/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Simplilearn",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-03-01T13:47:21Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "rGexTPnE9A4L1bEBWtimapflq_Q",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "fCHYgZZ5DX8"
+		},
+		"snippet": {
+			"publishedAt": "2020-06-20T05:40:05Z",
+			"channelId": "UCCktnahuRFYIBtNnKT5IYyg",
+			"title": "Machine Learning in Hindi | Machine Learning Tutorial | Machine Learning Full Course | Intellipaat",
+			"description": "In this machine learning tutorial we have taught machine learning in hindi. Intellipaat Machine Learning full course: ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/fCHYgZZ5DX8/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/fCHYgZZ5DX8/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/fCHYgZZ5DX8/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Intellipaat",
+			"liveBroadcastContent": "none",
+			"publishTime": "2020-06-20T05:40:05Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "FpTKOFLr-aJtzLUfKSNE5F6FsNA",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "3AQ_74xrch8"
+		},
+		"snippet": {
+			"publishedAt": "2019-01-19T20:00:00Z",
+			"channelId": "UC4JX40jDee_tINbkjycV4Sg",
+			"title": "Python Machine Learning Tutorial #4 - Saving Models &amp; Plotting Data",
+			"description": "In this machine learning python tutorial I will be covering saving and loading models using the pickle module. I will also be going over plotting data points using ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/3AQ_74xrch8/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/3AQ_74xrch8/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/3AQ_74xrch8/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Tech With Tim",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-01-19T20:00:00Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "las6NudaNnIylHrKV84t8XKwtUA",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "nKW8Ndu7Mjw"
+		},
+		"snippet": {
+			"publishedAt": "2017-08-31T19:19:11Z",
+			"channelId": "UCJS9pqu9BzkAMNTmzNMNhvg",
+			"title": "The 7 steps of machine learning",
+			"description": "How can we tell if a drink is beer or wine? Machine learning, of course! In this episode of Cloud AI Adventures, Yufeng walks through the 7 steps involved in ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/nKW8Ndu7Mjw/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/nKW8Ndu7Mjw/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/nKW8Ndu7Mjw/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Google Cloud Platform",
+			"liveBroadcastContent": "none",
+			"publishTime": "2017-08-31T19:19:11Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "_XaDOggBAknn3uMcoYbWwuorlCo",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "TQKI0KE-JYY"
+		},
+		"snippet": {
+			"publishedAt": "2019-01-22T20:00:02Z",
+			"channelId": "UC4JX40jDee_tINbkjycV4Sg",
+			"title": "Python Machine Learning Tutorial #7 - KNN p.3 - Implementation",
+			"description": "In this python machine learning tutorial I go through implementing the K nearest neighbor algorithm. I show how to train and test a KNN model and then how to ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/TQKI0KE-JYY/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/TQKI0KE-JYY/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/TQKI0KE-JYY/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Tech With Tim",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-01-22T20:00:02Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "vxxeedZf0q364BJKYubHc7G-GsY",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "dPrSjh8NVP8"
+		},
+		"snippet": {
+			"publishedAt": "2020-06-19T12:36:41Z",
+			"channelId": "UCObs0kLIrDjX2LLSybqNaEA",
+			"title": "Machine Learning Tutorial | Machine Learning Full Course  | Learn Machine Learning | Great Learning",
+			"description": "Great Learning brings for you, Machine Learning Tutorial video which will help you understand all the Machine Fundamentals and Algorithms in detail with ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/dPrSjh8NVP8/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/dPrSjh8NVP8/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/dPrSjh8NVP8/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Great Learning",
+			"liveBroadcastContent": "none",
+			"publishTime": "2020-06-19T12:36:41Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "TiyAeCKzdk9IBLfW0oaVgfwOobk",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "JgvyzIkgxF0"
+		},
+		"snippet": {
+			"publishedAt": "2018-04-02T20:54:48Z",
+			"channelId": "UCNIkB2IeJ-6AmZv7bQ1oBYg",
+			"title": "An introduction to Reinforcement Learning",
+			"description": "This episode gives a general introduction into the field of Reinforcement Learning: - High level description of the field - Policy gradients - Biggest challenges ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/JgvyzIkgxF0/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/JgvyzIkgxF0/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/JgvyzIkgxF0/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Arxiv Insights",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-04-02T20:54:48Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "wTEfccsT4GVfiRv7cP5eybe5zyY",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "7x2YZhEj9Dw"
+		},
+		"snippet": {
+			"publishedAt": "2018-11-20T21:09:07Z",
+			"channelId": "UCzw4hbQIePVtyJQzE_F8QDg",
+			"title": "Deep Learning Tutorial with Python | Machine Learning with Neural Networks [Top Udemy Instructor]",
+			"description": "In this video, Deep Learning Tutorial with Python | Machine Learning with Neural Networks Explained, Udemy instructor Frank Kane helps de-mystify the world ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/7x2YZhEj9Dw/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/7x2YZhEj9Dw/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/7x2YZhEj9Dw/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Udemy",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-11-20T21:09:07Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "ZbGGZh3wiwHtuF3vEPzt0QS3VWY",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "BzcBsTou0C0"
+		},
+		"snippet": {
+			"publishedAt": "2019-09-23T13:57:15Z",
+			"channelId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+			"title": "Introduction - Deep Learning and Neural Networks with Python and Pytorch p.1",
+			"description": "Hello and welcome to a deep learning with Python and Pytorch tutorial series, starting from the basics. Text-based tutorials and sample code: ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/BzcBsTou0C0/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/BzcBsTou0C0/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/BzcBsTou0C0/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "sentdex",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-09-23T13:57:15Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "CC5p5Wzg7c32xFy1M_u5w6mG6Rs",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "I7NrVwm3apg"
+		},
+		"snippet": {
+			"publishedAt": "2018-03-21T14:01:21Z",
+			"channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+			"title": "Machine Learning Algorithms | Machine Learning Tutorial | Data Science Algorithms | Simplilearn",
+			"description": "This Machine Learning Algorithms Tutorial video will help you learn you what is Machine Learning, various Machine Learning problems and the algorithms, key ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/I7NrVwm3apg/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/I7NrVwm3apg/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/I7NrVwm3apg/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Simplilearn",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-03-21T14:01:21Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "9qHb3k7jIF4umeNzi0dL36nYVb4",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "qrM5xBtIruE"
+		},
+		"snippet": {
+			"publishedAt": "2020-09-06T06:23:12Z",
+			"channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+			"title": "Machine Learning Algorithms Explained | Machine Learning Tutorial | ML Training | Edureka",
+			"description": "NIT Warangal Post Graduate Program in AI & Machine Learning with Edureka: https://www.edureka.co/nitw-ai-ml-pgp This Edureka video on Machine Learning ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/qrM5xBtIruE/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/qrM5xBtIruE/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/qrM5xBtIruE/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "edureka!",
+			"liveBroadcastContent": "none",
+			"publishTime": "2020-09-06T06:23:12Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "Pd7jeaENjWPq4kyj6AI0vmztl4k",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "fv6Qll3laUU"
+		},
+		"snippet": {
+			"publishedAt": "2017-07-28T15:13:50Z",
+			"channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+			"title": "Artificial Neural Network Tutorial | Deep Learning With Neural Networks | Edureka",
+			"description": "TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka \"Neural Network Tutorial\" video (Blog: https://goo.gl/4zxMfU) will ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/fv6Qll3laUU/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/fv6Qll3laUU/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/fv6Qll3laUU/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "edureka!",
+			"liveBroadcastContent": "none",
+			"publishTime": "2017-07-28T15:13:50Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "cor-RzlW21w5XFnzhzY7MkAl1fU",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "nNHSlpJMOJs"
+		},
+		"snippet": {
+			"publishedAt": "2018-11-08T14:07:23Z",
+			"channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+			"title": "Azure Machine Learning Tutorial | Azure Tutorial | Azure Training | Edureka",
+			"description": "Microsoft Azure Certification Training: https://www.edureka.co/microsoft-certified-azure-solution-architect-certification-training ) This Edureka \"Azure Machine ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/nNHSlpJMOJs/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/nNHSlpJMOJs/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/nNHSlpJMOJs/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "edureka!",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-11-08T14:07:23Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "AWBDWs6dE-puB1zRMzM_HrmdM7o",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "21_wokgnNog"
+		},
+		"snippet": {
+			"publishedAt": "2018-08-15T10:36:22Z",
+			"channelId": "UC9IuUwwE2xdjQUT_LMLONoA",
+			"title": "Machine Learning with Julia: Elegance, Speed and Ease | Innes &amp; Yuret",
+			"description": "Machine Learning has become one of the hottest research and industry areas over the last few years; we believe Julia is the strongest contender to become the ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/21_wokgnNog/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/21_wokgnNog/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/21_wokgnNog/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "The Julia Programming Language",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-08-15T10:36:22Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "5APE1J7sMMSgVZUx0i7_AJPDfKM",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "Pj0neYUp9Tc"
+		},
+		"snippet": {
+			"publishedAt": "2018-03-16T14:31:00Z",
+			"channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+			"title": "What is Machine Learning? | Machine Learning Basics | Machine Learning Tutorial | Edureka",
+			"description": "Data Science Certification: https://www.edureka.co/data-science-r-programming-certification-course ) This Edureka video on \"What is Machine Learning\" ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/Pj0neYUp9Tc/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/Pj0neYUp9Tc/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/Pj0neYUp9Tc/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "edureka!",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-03-16T14:31:00Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "w_mX-eTTNQAYQSe4HVU0pnfvoRU",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "83LMXWmzRDM"
+		},
+		"snippet": {
+			"publishedAt": "2019-01-09T11:57:28Z",
+			"channelId": "UCH912uDFX3sIaPXMrJa9X_w",
+			"title": "ml.net C# machine learning tutorial for beginners",
+			"description": "Mathematics for Data science professionals https://www.youtube.com/watch?v=H4hzYjhEEaQ For more such videos visit http://www.questpond.com For more ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/83LMXWmzRDM/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/83LMXWmzRDM/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/83LMXWmzRDM/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Questpond",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-01-09T11:57:28Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "bvC35MF3CwfDzyNu6lnMYscJ1Ws",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "YJyRBPz4CoM"
+		},
+		"snippet": {
+			"publishedAt": "2018-07-21T00:05:56Z",
+			"channelId": "UCWN3xxRkmTPmbKwht9FuE5A",
+			"title": "Machine Learning API Tutorial (LIVE)",
+			"description": "Lets build a simple machine learning API together! I'll use the now classic neural style transfer algorithm to create a simple API that takes in an image and ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/YJyRBPz4CoM/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/YJyRBPz4CoM/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/YJyRBPz4CoM/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Siraj Raval",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-07-21T00:05:56Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "_wojljs6VgNTaruI_JsgDm2QWo8",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "ggqnxyjaKe4"
+		},
+		"snippet": {
+			"publishedAt": "2016-06-03T21:22:29Z",
+			"channelId": "UCCb9_Kn8F_Opb3UCGm-lILQ",
+			"title": "Tutorial: Introduction to Reinforcement Learning with Function Approximation",
+			"description": "Reinforcement learning is a body of theory and techniques for optimal sequential decision making developed in the last thirty years primarily within the machine ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/ggqnxyjaKe4/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/ggqnxyjaKe4/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/ggqnxyjaKe4/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Microsoft Research",
+			"liveBroadcastContent": "none",
+			"publishTime": "2016-06-03T21:22:29Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "rEuXenltjZVr6l88Z3DCpcihj1o",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "DhdUlDIAG7Y"
+		},
+		"snippet": {
+			"publishedAt": "2019-06-12T05:37:06Z",
+			"channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+			"title": "Q Learning Explained | Reinforcement Learning Using Python | Q Learning in AI | Edureka",
+			"description": "Python Data Science Training: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Q Learning Explained\" will provide ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/DhdUlDIAG7Y/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/DhdUlDIAG7Y/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/DhdUlDIAG7Y/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "edureka!",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-06-12T05:37:06Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "_XqSRK4NWJemki1wlBB-rPbrj-o",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "tXVNS-V39A0"
+		},
+		"snippet": {
+			"publishedAt": "2019-05-06T13:34:55Z",
+			"channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+			"title": "TensorFlow In 10 Minutes | TensorFlow Tutorial For Beginners | Deep Learning &amp; TensorFlow | Edureka",
+			"description": "AI and Deep-Learning with TensorFlow - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video provides you with a basic introduction ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/tXVNS-V39A0/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/tXVNS-V39A0/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/tXVNS-V39A0/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "edureka!",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-05-06T13:34:55Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "QNd58TTvn-nadcs93Sjeeh7msWs",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "keUHfUrlbq0"
+		},
+		"snippet": {
+			"publishedAt": "2018-02-21T15:40:08Z",
+			"channelId": "UC3YSO5ekHipsvsiqyPxKkeg",
+			"title": "4.1 Apa itu machine learning?",
+			"description": "Salam Akhirnya bisa mengakhiri puasa bikin video. Semoga mengawali untuk lebih rajin lagi buat tutorial. Kali ini kita bahas tentang Machine Learning. Menarik ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/keUHfUrlbq0/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/keUHfUrlbq0/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/keUHfUrlbq0/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Ridwan Ilyas",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-02-21T15:40:08Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "ZIyYD23JoFbqVvKYf_ThQ56nQo4",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "4H7kg2l4lD8"
+		},
+		"snippet": {
+			"publishedAt": "2019-05-17T20:59:34Z",
+			"channelId": "UCkhm72fuzkS9fYGlGpEmj7A",
+			"title": "Advanced Machine Learning | SciPy Japan 2019 Tutorial | Alexandre Chabot-Lerclerc",
+			"description": "Scikit-learn is a powerful machine learning library in Python. In this 3.5h tutorials, we will cover some advanced topics of the library, such as pipelines, grid ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/4H7kg2l4lD8/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/4H7kg2l4lD8/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/4H7kg2l4lD8/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Enthought",
+			"liveBroadcastContent": "none",
+			"publishTime": "2019-05-17T20:59:34Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "IPincienuM5FN4xNl6c4SPetGXI",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "thZ1MSumZX0"
+		},
+		"snippet": {
+			"publishedAt": "2018-12-11T13:00:12Z",
+			"channelId": "UCMrXkqBzR71QsTxuwIJalGg",
+			"title": "Machine Learning Bangla Tutorial - Introduction (মেশিন লার্নিং)",
+			"description": "Machine Learning Bangla Tutorials (মেশিন লার্নিং): https://www.youtube.com/playlist?list=PLKiZXxQe7OiBAGwQW4RHRwd5TQyJ5jcL1 Anaconda Installation ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/thZ1MSumZX0/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/thZ1MSumZX0/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/thZ1MSumZX0/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Sayef Reyadh - Programming Made Simple",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-12-11T13:00:12Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "VgBy_C4TW29Kdi_k1LTJykyWAMk",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "IpGxLWOIZy4"
+		},
+		"snippet": {
+			"publishedAt": "2016-09-09T18:10:53Z",
+			"channelId": "UCgBncpylJ1kiVaPyP-PZauQ",
+			"title": "A Friendly Introduction to Machine Learning",
+			"description": "Grokking Machine Learning Book: https://www.manning.com/books/grokking-machine-learning 40% discount promo code: serranoyt A friendly introduction to ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/IpGxLWOIZy4/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/IpGxLWOIZy4/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/IpGxLWOIZy4/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Luis Serrano",
+			"liveBroadcastContent": "none",
+			"publishTime": "2016-09-09T18:10:53Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "qt0xZFNvpzsyCYhOgp5emYEO7ZA",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "9Hz3P1VgLz4"
+		},
+		"snippet": {
+			"publishedAt": "2018-03-19T16:00:01Z",
+			"channelId": "UCVTlvUkGslCV_h-nSAId8Sw",
+			"title": "Machine Learning Tutorial for Beginners - USING JAVASCRIPT!",
+			"description": "In a few lines of code, we can tackle real browser or server challenges with machine learning and neural networks! Here's the source code: ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/9Hz3P1VgLz4/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/9Hz3P1VgLz4/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/9Hz3P1VgLz4/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "LearnCode.academy",
+			"liveBroadcastContent": "none",
+			"publishTime": "2018-03-19T16:00:01Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "pBd1lLWiFld6Vl9-C-kKolmO_GI",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "iyxqcS1u5go"
+		},
+		"snippet": {
+			"publishedAt": "2020-08-14T15:33:48Z",
+			"channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+			"title": "Mathematics For Machine Learning | Essential Mathematics - Machine Learning Tutorial | Simplilearn",
+			"description": "Mathematics forms the core of Machine Learning and is one of the prerequisites. This video on Mathematics for Machine Learning will help you understand ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/iyxqcS1u5go/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/iyxqcS1u5go/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/iyxqcS1u5go/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "Simplilearn",
+			"liveBroadcastContent": "none",
+			"publishTime": "2020-08-14T15:33:48Z"
+		}
+	}, {
+		"kind": "youtube#searchResult",
+		"etag": "ixVBRJUblB0o_lOOOheTZ3k7gCo",
+		"id": {
+			"kind": "youtube#video",
+			"videoId": "vY5OELqBkrY"
+		},
+		"snippet": {
+			"publishedAt": "2017-12-03T14:43:56Z",
+			"channelId": "UC8mJ6DL1Q32UWyJUceoO8Jw",
+			"title": "What is Machine Learning? | Machine Learning Basics | Machine Learning Tutorial | CloudxLab",
+			"description": "Machine Learning & Deep Learning Specialization Training: https://goo.gl/VRLLtR ) This CloudxLab Introduction to Machine Learning tutorial helps you to ...",
+			"thumbnails": {
+				"default": {
+					"url": "https://i.ytimg.com/vi/vY5OELqBkrY/default.jpg",
+					"width": 120,
+					"height": 90
+				},
+				"medium": {
+					"url": "https://i.ytimg.com/vi/vY5OELqBkrY/mqdefault.jpg",
+					"width": 320,
+					"height": 180
+				},
+				"high": {
+					"url": "https://i.ytimg.com/vi/vY5OELqBkrY/hqdefault.jpg",
+					"width": 480,
+					"height": 360
+				}
+			},
+			"channelTitle": "CloudxLab",
+			"liveBroadcastContent": "none",
+			"publishTime": "2017-12-03T14:43:56Z"
+		}
+	}]
+}

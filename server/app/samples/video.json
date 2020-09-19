@@ -1,0 +1,622 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "oHg8KRrtlgo4dnpLD83JEtm8s8s",
+  "items": [{
+    "kind": "youtube#video",
+    "etag": "bCuJZrDB-1gy5oV93m2Sif-YGwc",
+    "id": "gSa0e34EZyQ",
+    "snippet": {
+      "publishedAt": "2019-06-16T06:30:05Z",
+      "channelId": "UCt_KDu-DtBqvIw7X-V7mlmQ",
+      "title": "Pari's Magical Beauty Parlour | Pari Doing Makeup | Funny Video",
+      "description": "In today's Video i have opened a Beauty Parlour and i am doing very beautiful makeup of customers . So watch it and enjoy.\n\nLinks to buy the products =\n1. Magic Wand - https://amzn.to/2IiiLMx\n2. Makeup Set - https://amzn.to/2WHvr3x \n3. Nail Art Kit - https://amzn.to/2RlxAkj\n4. Doctor Set - https://amzn.to/2IIyKCH \n5. Kitchen Set - https://amzn.to/2KQqy5T \n\nBackground Music By = \nYou Tube Library",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gSa0e34EZyQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gSa0e34EZyQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gSa0e34EZyQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gSa0e34EZyQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gSa0e34EZyQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Pari's Lifestyle",
+      "tags": ["Pari's Magical Beauty Parlour", "paris lifestyle", "paris lifestyle channel", "paris lifestyle in hindi", "pari makeup video", "pari makeup game", "pari makeup set", "pari makeup kar rahi hai", "kids videos for kids", "kids funny video"],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Pari's Magical Beauty Parlour | Pari Doing Makeup | Funny Video",
+        "description": "In today's Video i have opened a Beauty Parlour and i am doing very beautiful makeup of customers . So watch it and enjoy.\n\nLinks to buy the products =\n1. Magic Wand - https://amzn.to/2IiiLMx\n2. Makeup Set - https://amzn.to/2WHvr3x \n3. Nail Art Kit - https://amzn.to/2RlxAkj\n4. Doctor Set - https://amzn.to/2IIyKCH \n5. Kitchen Set - https://amzn.to/2KQqy5T \n\nBackground Music By = \nYou Tube Library"
+      },
+      "defaultAudioLanguage": "hi"
+    },
+    "contentDetails": {
+      "duration": "PT8M24S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "49939672",
+      "likeCount": "398582",
+      "dislikeCount": "108330",
+      "favoriteCount": "0"
+    }
+  }, {
+    "kind": "youtube#video",
+    "etag": "di7sIwEnxRMs4Fc3UIaoQk508gc",
+    "id": "YxoSmwXhvdw",
+    "snippet": {
+      "publishedAt": "2015-09-13T05:10:15Z",
+      "channelId": "UCQ2WjcRRelz7iLn9s0igjww",
+      "title": "Giant Surprise Egg 1 - Barbie, Monster High, Peppa Pig, and Play Doh - Toys R Us Shopping Spree",
+      "description": "Giant Surprise Egg 1 is the first in a new series from Kaylee Bug Tv.  Kaylee goes shopping for Barbie, Monster High, Peppa Pig, Play Doh, and more.  All of these amazing kids toys will be featured in future Surprise Egg videos!  Keep your eyes peeled for a special Barbie Superhero toy!",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/YxoSmwXhvdw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/YxoSmwXhvdw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/YxoSmwXhvdw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/YxoSmwXhvdw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/YxoSmwXhvdw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Kaylee Bug Tv",
+      "tags": ["Giant Surprise Egg", "giant surprise egg 1", "Barbie (Collection Category)", "Play-Doh (Consumer Product)", "Monster High (Brand)", "surprise eggs", "surprise egg", "surprise", "mega", "toys", "toy", "Toys R Us", "Kids Shopping", "Disney Car Toys", "Disney", "kayleebugtv", "kaylee bug tv", "toy haul", "cute kid", "barbie videos", "barbie dolls", "surprise toys", "videos for children", "superhero barbie", "frozen", "kids toys", "opening", "play doh video", "girls", "playdoh", "doll", "barbie accesories", "beauty products", "toy collector"],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Giant Surprise Egg 1 - Barbie, Monster High, Peppa Pig, and Play Doh - Toys R Us Shopping Spree",
+        "description": "Giant Surprise Egg 1 is the first in a new series from Kaylee Bug Tv.  Kaylee goes shopping for Barbie, Monster High, Peppa Pig, Play Doh, and more.  All of these amazing kids toys will be featured in future Surprise Egg videos!  Keep your eyes peeled for a special Barbie Superhero toy!"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT13M47S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "49737169",
+      "likeCount": "109520",
+      "dislikeCount": "39387",
+      "favoriteCount": "0"
+    }
+  }, {
+    "kind": "youtube#video",
+    "etag": "DXJo1P_U4LH4ijtS6XqY36goYuA",
+    "id": "ZAxhEUfpSss",
+    "snippet": {
+      "publishedAt": "2019-02-22T17:59:38Z",
+      "channelId": "UCkvK_5omS-42Ovgah8KRKtg",
+      "title": "Trying TJ MAXX Makeup For The First Time",
+      "description": "HEY EVERYONE... Welcome BACK to my channel! Today I go to TJ MAXX for the first time in 10 years and try to find a full face of makeup! Follow me on this journey and see what happens when I go home and try all the makeup!\n\nTHE GIVEAWAY IS NOW OVER!!!! CONGRATULATIONS to these lucky 3!! 🔥\n⭐ My GRAND PRIZE LOUIS V. WINNER IS: @AMommy91\n💛THE 2 MorphexJeffreeStar PR WINNERS ARE: @Janee_Nakeha & @CarisaMarie05\n\nWANT MORE?? ⭐️ Watch my newest MAKEUP BATTLE: $8.00 ELF Primer VS. $52.00 Tatcha Primer ▷ https://bit.ly/2UoltDl\n\n💄*SHOP* THE NEW Jeffree Star Cosmetics ACCESSORIES ► https://bit.ly/2hP94cU\n\n+ Follow my TWITCH: https://www.twitch.tv/jeffreestar\n*SHOP: http://www.jeffreestarcosmetics.com\n+ FOLLOW MY BRAND ON Instagram: http://instagram.com/jeffreestarcosmetics\n+FOLLOW ME ON IG: http://instagram.com/jeffreestar\n+ SNAPCHAT: jeffreedahmer\n+ TWITTER: @jeffreestar\n\nWATCH MORE VIDEOS...................❤️\n\n🔮 WATCH FULL FACE OF BRANDS THAT HATE ME  ► https://bit.ly/2O6GgJi\n\n🍔 WATCH my TACOBELL MUKBANG feat. Trisha Paytas ▷ https://bit.ly/2w7amYf\n\n🎀 WATCH ME READ MEAN HATE COMMENTS IN ASMR ▷ https://bit.ly/2HUDcwr\n\n💄 WATCH SHANE DAWSON CONTROL MY LIFE FOR A DAY  ► https://bit.ly/2v077Oq\n\nMUSIC: ► Clarx ► Bones - https://www.youtube.com/watch?v=8Tu0lcl75yg\n (courtesy of NoCopyrightSounds)",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZAxhEUfpSss/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZAxhEUfpSss/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZAxhEUfpSss/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZAxhEUfpSss/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZAxhEUfpSss/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "jeffreestar",
+      "tags": ["jeffree star", "tj maxxx makeup", "marshalls makeup;", "tj maxx", "jeffree star approved", "jeffree star review", "cheap makeup", "trying used makeup", "trying tj maxx makeup", "james charles", "the dolan twins", "shane dawson", "ryland adams", "jaclyn hill", "morphe brushes", "destorying makeup", "jeffree star brushes", "luxury vs cheap makeup", "drugstore review", "bhad bhabie review", "fenty beauty"],
+      "categoryId": "26",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Trying TJ MAXX Makeup For The First Time",
+        "description": "HEY EVERYONE... Welcome BACK to my channel! Today I go to TJ MAXX for the first time in 10 years and try to find a full face of makeup! Follow me on this journey and see what happens when I go home and try all the makeup!\n\nTHE GIVEAWAY IS NOW OVER!!!! CONGRATULATIONS to these lucky 3!! 🔥\n⭐ My GRAND PRIZE LOUIS V. WINNER IS: @AMommy91\n💛THE 2 MorphexJeffreeStar PR WINNERS ARE: @Janee_Nakeha & @CarisaMarie05\n\nWANT MORE?? ⭐️ Watch my newest MAKEUP BATTLE: $8.00 ELF Primer VS. $52.00 Tatcha Primer ▷ https://bit.ly/2UoltDl\n\n💄*SHOP* THE NEW Jeffree Star Cosmetics ACCESSORIES ► https://bit.ly/2hP94cU\n\n+ Follow my TWITCH: https://www.twitch.tv/jeffreestar\n*SHOP: http://www.jeffreestarcosmetics.com\n+ FOLLOW MY BRAND ON Instagram: http://instagram.com/jeffreestarcosmetics\n+FOLLOW ME ON IG: http://instagram.com/jeffreestar\n+ SNAPCHAT: jeffreedahmer\n+ TWITTER: @jeffreestar\n\nWATCH MORE VIDEOS...................❤️\n\n🔮 WATCH FULL FACE OF BRANDS THAT HATE ME  ► https://bit.ly/2O6GgJi\n\n🍔 WATCH my TACOBELL MUKBANG feat. Trisha Paytas ▷ https://bit.ly/2w7amYf\n\n🎀 WATCH ME READ MEAN HATE COMMENTS IN ASMR ▷ https://bit.ly/2HUDcwr\n\n💄 WATCH SHANE DAWSON CONTROL MY LIFE FOR A DAY  ► https://bit.ly/2v077Oq\n\nMUSIC: ► Clarx ► Bones - https://www.youtube.com/watch?v=8Tu0lcl75yg\n (courtesy of NoCopyrightSounds)"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT30M29S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "true",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "23965194",
+      "likeCount": "735926",
+      "dislikeCount": "14970",
+      "favoriteCount": "0",
+      "commentCount": "614770"
+    }
+  }, {
+    "kind": "youtube#video",
+    "etag": "Bxm5JdsZ2Zf9DDebzNZeL8X1PwI",
+    "id": "AOkVEwMQOTM",
+    "snippet": {
+      "publishedAt": "2020-07-14T19:00:06Z",
+      "channelId": "UCucot-Zp428OwkyRm2I7v2Q",
+      "title": "Prank Calling Makeup Stores! ft. Larray",
+      "description": "HI SISTERS! In today's new video I prank called makeup stores like Morphe, Ulta, and Sephora to ask them what they thought about me and my palette. I was absolutely horrified to film this but Larray made it a million times funnier. I really hope you guys enjoy!\n\nLARRAYXO » https://www.youtube.com/user/LarryVonVanity\n\n🎥 PREVIOUS VIDEO » https://youtu.be/jIIp6vM5Og4\n👕 SISTER'S APPAREL » http://sisters-apparel.com\n🛎 Subscribe to my channel to join the sisterhood & hit the notification bell so you never miss an upload! » http://bit.ly/JamesCharles for new videos!\n\n💞 LET'S BE BFFS\nTEXT ME! » 310-905-8746\nINSTAGRAM » http://instagram.com/jamescharles\nFACEBOOK » http://facebook.com/jcharlesbeauty\nTWITTER » http://twitter.com/jamescharles\nSNAPCHAT » jamescharless\nTIKTOK » jamescharles\n\n💌 Business Inquiries » business@spinandco.com\n\n💸 COUPON CODES 💸\nUSE CODE JAMES FOR MONEY OFF YOUR ORDER!\nMORPHE » http://morphebrushes.com\nLILLY LASHES » https://lillylashes.com/\nLAURAS BOUTIQUE » http://lauras-boutique.com\n\n🔥 MY AMAZING TEAM\nDIRECTOR OF CONTENT: Louis Gargiula\nhttp://instagram.com/louisgargiula\nEDITOR: Ryan Allen\nhttp://www.youtube.com/user/helloxryan \nGRAPHICS: Michael Rusakov\nhttp://instagram.com/michael.ny",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/AOkVEwMQOTM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/AOkVEwMQOTM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/AOkVEwMQOTM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/AOkVEwMQOTM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/AOkVEwMQOTM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "James Charles",
+      "tags": ["james", "james charles", "makeup artist", "mua", "covergirl", "coverboy", "easy makeup", "reviews", "tutorials", "funny videos", "beauty tips", "hacks", "beauty", "sister", "sisters apparel", "morphe", "james charles x morphe", "guru", "lips", "beauty hacks", "makeup routines", "e girl makeup", "e boy makeup", "makeup 2020", "prom makeup", "how to apply makeup for beginners", "tik tok makeup", "tik tok hacks", "tik tok beauty hacks", "prank calling", "prank calls", "makeup stores", "prank calling makeup stores", "ulta", "sephora", "larrayxo", "larray"],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Prank Calling Makeup Stores! ft. Larray",
+        "description": "HI SISTERS! In today's new video I prank called makeup stores like Morphe, Ulta, and Sephora to ask them what they thought about me and my palette. I was absolutely horrified to film this but Larray made it a million times funnier. I really hope you guys enjoy!\n\nLARRAYXO » https://www.youtube.com/user/LarryVonVanity\n\n🎥 PREVIOUS VIDEO » https://youtu.be/jIIp6vM5Og4\n👕 SISTER'S APPAREL » http://sisters-apparel.com\n🛎 Subscribe to my channel to join the sisterhood & hit the notification bell so you never miss an upload! » http://bit.ly/JamesCharles for new videos!\n\n💞 LET'S BE BFFS\nTEXT ME! » 310-905-8746\nINSTAGRAM » http://instagram.com/jamescharles\nFACEBOOK » http://facebook.com/jcharlesbeauty\nTWITTER » http://twitter.com/jamescharles\nSNAPCHAT » jamescharless\nTIKTOK » jamescharles\n\n💌 Business Inquiries » business@spinandco.com\n\n💸 COUPON CODES 💸\nUSE CODE JAMES FOR MONEY OFF YOUR ORDER!\nMORPHE » http://morphebrushes.com\nLILLY LASHES » https://lillylashes.com/\nLAURAS BOUTIQUE » http://lauras-boutique.com\n\n🔥 MY AMAZING TEAM\nDIRECTOR OF CONTENT: Louis Gargiula\nhttp://instagram.com/louisgargiula\nEDITOR: Ryan Allen\nhttp://www.youtube.com/user/helloxryan \nGRAPHICS: Michael Rusakov\nhttp://instagram.com/michael.ny"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT14M15S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "8815974",
+      "likeCount": "549713",
+      "dislikeCount": "6418",
+      "favoriteCount": "0",
+      "commentCount": "26831"
+    }
+  }, {
+    "kind": "youtube#video",
+    "etag": "NZF68eutA4-jmmxAR7PTeYzhqlk",
+    "id": "5kI9fsf0S-c",
+    "snippet": {
+      "publishedAt": "2019-07-19T18:00:09Z",
+      "channelId": "UCucot-Zp428OwkyRm2I7v2Q",
+      "title": "Letting The Person In Front of Me Decide My Makeup Routine",
+      "description": "HI SISTERS! In today's video, I wanted to take on the Drive Thru challenge... but make it a Makeup Challenge! I went to Ulta and let The Person In Front Of Me Decide My Makeup! Stay tuned until the very end for a HUGE giveaway too!\n\nMia Maples » https://www.youtube.com/user/Ivorygirl48\n🎥 PREVIOUS VIDEO » https://youtu.be/re2AtzhcG-o\n👕 SISTER'S APPAREL » http://sisters-apparel.com\n🛎 Subscribe to my channel to join the sisterhood & hit the notification bell so you never miss an upload! » http://bit.ly/JamesCharles for new videos!\n\n🎉 GIVEAWAY RULES\n\nHOW TO ENTER:\n1. Must be subscribed to me on my YouTube channel\nhttp://youtube.com/jamescharles\n2. Must be following on my other social media platforms including Instagram, Twitter, & Snapchat (@jamescharles)\n3. Thumbs up this video & leave a comment down below!\n\nPrizes include a James Charles x Morphe palette, a $1000 Ulta GiftCard, and a $1000 Ulta GiftCard. Winners will be selected randomly 1 week from today on July 26th and contacted via Instagram DM. For all official rules and regulations » https://sisters-apparel.com/pages/holiday-giveaslay\n\n__\n\n❤️ LET'S BE BFFS\nINSTAGRAM » http://instagram.com/jamescharles\nTWITTER » http://twitter.com/jamescharles\nSNAPCHAT » jamescharless\n__\n\n💸 COUPON CODES 💸\n\nMORPHE BRUSHES » http://morphebrushes.com\nUse code \"JAMES\" for 10% off all products online AND in store!\n\nLILLY LASHES » https://lillylashes.com/\nUse code \"JAMES\" for 15% off all lashes\n\nLAURAS BOUTIQUE » http://lauras-boutique.com\nUse code \"JAMES\" for 10% off all items\n\nSKINDINAVIA » http://skindinavia.com\nUse code \"JAMES\" for 25% off all products \n\n__\n\n♡ MY AMAZING TEAM\n\nEDITOR: Louis Gargiula\nhttp://instagram.com/louisgargiula\n\nGRAPHICS: Michael Rusakov\nhttp://instagram.com/michael.ny",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5kI9fsf0S-c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5kI9fsf0S-c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5kI9fsf0S-c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5kI9fsf0S-c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5kI9fsf0S-c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "James Charles",
+      "tags": ["james", "james charles", "makeup artist", "mua", "covergirl", "coverboy", "cute", "manny mua", "easy makeup", "how-to", "reviews", "tutorials", "funny videos", "beauty tips", "hacks", "beauty", "shanen", "nikkie tutorials", "ace family", "letting the person in front of me", "letting the person", "decide what i eat", "letting the person in front of me decide what i eat", "makeup challenge", "drive thru", "drive thru challenge", "24 hours"],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "Letting The Person In Front of Me Decide My Makeup Routine",
+        "description": "HI SISTERS! In today's video, I wanted to take on the Drive Thru challenge... but make it a Makeup Challenge! I went to Ulta and let The Person In Front Of Me Decide My Makeup! Stay tuned until the very end for a HUGE giveaway too!\n\nMia Maples » https://www.youtube.com/user/Ivorygirl48\n🎥 PREVIOUS VIDEO » https://youtu.be/re2AtzhcG-o\n👕 SISTER'S APPAREL » http://sisters-apparel.com\n🛎 Subscribe to my channel to join the sisterhood & hit the notification bell so you never miss an upload! » http://bit.ly/JamesCharles for new videos!\n\n🎉 GIVEAWAY RULES\n\nHOW TO ENTER:\n1. Must be subscribed to me on my YouTube channel\nhttp://youtube.com/jamescharles\n2. Must be following on my other social media platforms including Instagram, Twitter, & Snapchat (@jamescharles)\n3. Thumbs up this video & leave a comment down below!\n\nPrizes include a James Charles x Morphe palette, a $1000 Ulta GiftCard, and a $1000 Ulta GiftCard. Winners will be selected randomly 1 week from today on July 26th and contacted via Instagram DM. For all official rules and regulations » https://sisters-apparel.com/pages/holiday-giveaslay\n\n__\n\n❤️ LET'S BE BFFS\nINSTAGRAM » http://instagram.com/jamescharles\nTWITTER » http://twitter.com/jamescharles\nSNAPCHAT » jamescharless\n__\n\n💸 COUPON CODES 💸\n\nMORPHE BRUSHES » http://morphebrushes.com\nUse code \"JAMES\" for 10% off all products online AND in store!\n\nLILLY LASHES » https://lillylashes.com/\nUse code \"JAMES\" for 15% off all lashes\n\nLAURAS BOUTIQUE » http://lauras-boutique.com\nUse code \"JAMES\" for 10% off all items\n\nSKINDINAVIA » http://skindinavia.com\nUse code \"JAMES\" for 25% off all products \n\n__\n\n♡ MY AMAZING TEAM\n\nEDITOR: Louis Gargiula\nhttp://instagram.com/louisgargiula\n\nGRAPHICS: Michael Rusakov\nhttp://instagram.com/michael.ny"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT21M39S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "8570146",
+      "likeCount": "349157",
+      "dislikeCount": "18317",
+      "favoriteCount": "0",
+      "commentCount": "75752"
+    }
+  }, {
+    "kind": "youtube#video",
+    "etag": "nzrz5AQA5FK9CHqX5f2HJNaoZb4",
+    "id": "IqipGYXYRzw",
+    "snippet": {
+      "publishedAt": "2017-02-25T12:59:49Z",
+      "channelId": "UCpYF_3dMxbTukeCG2GsgPbA",
+      "title": "Dance Moms: Girls' Day Off - Makeup Shopping | Lifetime",
+      "description": "The girls go shopping for makeup and gossip about boys in this exclusive footage from the Girls' Day Off. #DanceMoms\n\nSubscribe for more from Dance Moms and other great Lifetime shows:\nhttp://www.youtube.com/subscription_center?add_user=Lifetime\n\nEnjoy more Dance Moms on YouTube:\nhttps://www.youtube.com/playlist?list=PLvAOsBfvt4jBTvv2aABPpf0H4YiMrzDqR\n\nHang out with the girls outside the studio! Check out exclusive videos from the Dance Moms Slumber Party:\nhttps://www.youtube.com/playlist?list=PLvAOsBfvt4jD1TEk7Zm1xaV6KwTz44-T5\n\n...and learn how to live like a Dance Moms' girl with the Girls' Guide to Life:\nhttps://www.youtube.com/playlist?list=PLvAOsBfvt4jDe7YHUsLodR_i4EaeNqOgT\n\nWatch all your favorite full dances and more in the playlist:\nhttps://www.youtube.com/watch?v=Ky0RzR0_9tc&index=4&list=PLvAOsBfvt4jDrdbldbhu7tFD824n2eQKI\n\nFind out more about the show and stream full episodes on our site:\nhttp://www.mylifetime.com/shows/dance-moms?cmpid=Social_YouTube_DanceMoms\n\nLike the official Dance Moms Facebook page:\nhttps://www.facebook.com/DanceMomsonLIFETIME\n\nJoin the #DanceMoms conversation on Twitter:\nhttps://twitter.com/DanceMoms\n\nGrab great merchandise here:\nhttp://shop.history.com/dance-moms/index.php?v=lifetime_show_dance-moms&cmpid=Social_YouTube_DanceMerch\n\nCheck out exclusive Lifetime content:\nWebsite - http://www.mylifetime.com\nFacebook - https://www.facebook.com/lifetime\nTwitter - https://twitter.com/lifetimetv\n\nDance Moms\nSeason 7\nEpisode 13\nSame Old Frenemies, Part 1\n\n\"Dance Moms\" follows Abby Lee Miller and the nation's favorite tween dancers as they take on Hollywood while new auditions, new competitions, and new studios raise the stakes.\n\nLifetime® is a premier female-focused entertainment destination dedicated to providing viewers with a diverse selection of critically acclaimed and award-winning original movies, scripted dramas, and unscripted programming. A favorite and trusted network for women, we are continually building on our heritage by attracting top Hollywood talent and producing shows that are modern, sexy, exciting, daring, and provocative. Visit us at myLifetime.com for more info.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/IqipGYXYRzw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/IqipGYXYRzw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/IqipGYXYRzw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/IqipGYXYRzw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/IqipGYXYRzw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Lifetime",
+      "tags": ["lifetime", "lifetime shows", "lifetime tv", "lifetime channel", "mylifetime", "dance moms", "dance", "moms", "dance moms full episodes", "pittsburgh", "abby lee miller", "abby lee", "dance moms clips", "alds", "aldc", "dance moms season 7", "junior elite", "kendall", "kalani", "brynn", "nia", "day off", "girls day off", "dance moms day off", "PLvAOsBfvt4jBTvv2aABPpf0H4YiMrzDqR", "PLvAOsBfvt4jBGrMsrUUE4Ep5lvjgS6A1x", "Season 7 Episode 13", "Season 7", "Episode 13", "Same", "Old Frenemies", "Part 1", "Girls", "Day Off", "Makeup", "Shopping", "Makeup Shopping"],
+      "categoryId": "24",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Dance Moms: Girls' Day Off - Makeup Shopping | Lifetime",
+        "description": "The girls go shopping for makeup and gossip about boys in this exclusive footage from the Girls' Day Off. #DanceMoms\n\nSubscribe for more from Dance Moms and other great Lifetime shows:\nhttp://www.youtube.com/subscription_center?add_user=Lifetime\n\nEnjoy more Dance Moms on YouTube:\nhttps://www.youtube.com/playlist?list=PLvAOsBfvt4jBTvv2aABPpf0H4YiMrzDqR\n\nHang out with the girls outside the studio! Check out exclusive videos from the Dance Moms Slumber Party:\nhttps://www.youtube.com/playlist?list=PLvAOsBfvt4jD1TEk7Zm1xaV6KwTz44-T5\n\n...and learn how to live like a Dance Moms' girl with the Girls' Guide to Life:\nhttps://www.youtube.com/playlist?list=PLvAOsBfvt4jDe7YHUsLodR_i4EaeNqOgT\n\nWatch all your favorite full dances and more in the playlist:\nhttps://www.youtube.com/watch?v=Ky0RzR0_9tc&index=4&list=PLvAOsBfvt4jDrdbldbhu7tFD824n2eQKI\n\nFind out more about the show and stream full episodes on our site:\nhttp://www.mylifetime.com/shows/dance-moms?cmpid=Social_YouTube_DanceMoms\n\nLike the official Dance Moms Facebook page:\nhttps://www.facebook.com/DanceMomsonLIFETIME\n\nJoin the #DanceMoms conversation on Twitter:\nhttps://twitter.com/DanceMoms\n\nGrab great merchandise here:\nhttp://shop.history.com/dance-moms/index.php?v=lifetime_show_dance-moms&cmpid=Social_YouTube_DanceMerch\n\nCheck out exclusive Lifetime content:\nWebsite - http://www.mylifetime.com\nFacebook - https://www.facebook.com/lifetime\nTwitter - https://twitter.com/lifetimetv\n\nDance Moms\nSeason 7\nEpisode 13\nSame Old Frenemies, Part 1\n\n\"Dance Moms\" follows Abby Lee Miller and the nation's favorite tween dancers as they take on Hollywood while new auditions, new competitions, and new studios raise the stakes.\n\nLifetime® is a premier female-focused entertainment destination dedicated to providing viewers with a diverse selection of critically acclaimed and award-winning original movies, scripted dramas, and unscripted programming. A favorite and trusted network for women, we are continually building on our heritage by attracting top Hollywood talent and producing shows that are modern, sexy, exciting, daring, and provocative. Visit us at myLifetime.com for more info."
+      },
+      "defaultAudioLanguage": "en-US"
+    },
+    "contentDetails": {
+      "duration": "PT1M51S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "5742931",
+      "likeCount": "26519",
+      "dislikeCount": "709",
+      "favoriteCount": "0",
+      "commentCount": "917"
+    }
+  }, {
+    "kind": "youtube#video",
+    "etag": "sYWgm75emzXWzRfSYqB15qCZYkU",
+    "id": "3FxIKyJzr9E",
+    "snippet": {
+      "publishedAt": "2017-12-19T20:00:01Z",
+      "channelId": "UCHJuQZuzapBh-CuhRYxIZrg",
+      "title": "Shop Makes Makeup The Old Fashioned Way",
+      "description": "Besame Cosmetics in LA makes beauty products are inspired by the olden days.\n\nSee more from Besame Cosmetics: https://besamecosmetics.com/\n\nThe INSIDER team believes that life is an adventure! Subscribe to our channel and visit us at: https://thisisinsider.com\nINSIDER on Facebook: https://www.facebook.com/thisisinsider/\nINSIDER on Instagram: https://www.instagram.com/thisisinsider/\nINSIDER on Twitter: https://twitter.com/thisisinsider",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/3FxIKyJzr9E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/3FxIKyJzr9E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/3FxIKyJzr9E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/3FxIKyJzr9E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/3FxIKyJzr9E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Insider",
+      "tags": ["besame cosmetics", "beauty", "makeup", "vintage", "vintage makeup", "cosmetics", "lipstick", "INSIDER", "INSIDER beauty", "business insider", "tech insider"],
+      "categoryId": "26",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Shop Makes Makeup The Old Fashioned Way",
+        "description": "Besame Cosmetics in LA makes beauty products are inspired by the olden days.\n\nSee more from Besame Cosmetics: https://besamecosmetics.com/\n\nThe INSIDER team believes that life is an adventure! Subscribe to our channel and visit us at: https://thisisinsider.com\nINSIDER on Facebook: https://www.facebook.com/thisisinsider/\nINSIDER on Instagram: https://www.instagram.com/thisisinsider/\nINSIDER on Twitter: https://twitter.com/thisisinsider"
+      }
+    },
+    "contentDetails": {
+      "duration": "PT1M49S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "5066862",
+      "likeCount": "55178",
+      "dislikeCount": "653",
+      "favoriteCount": "0",
+      "commentCount": "1215"
+    }
+  }, {
+    "kind": "youtube#video",
+    "etag": "cg4NF1Oav4B-1q1AzHl29usQhno",
+    "id": "eZbT3TzcSq8",
+    "snippet": {
+      "publishedAt": "2018-12-05T22:25:27Z",
+      "channelId": "UC6jgzx2g3nlbaYkd8EMweKA",
+      "title": "$2,000 DRUGSTORE SHOPPING SPREE WITH MY SUBSCRIBERS!",
+      "description": "For todays video I decided to go shopping at Target & Ulta and buy tons of drugstore makeup based on my subscribers recommendations! I had so much fun doing this & cant wait to play with the products! I hope you enjoy! XO\n\nBUY MY COLLECTIONS HERE:\nhttp://morphebrushes.com/index.php?dispatch=categories.view&category_id=358\nUSE CODE: “JACATTACK” FOR A DISCOUNT\n\n\n♡ ♡ ♡ \n\nCONNECT WITH ME!!!\n\nMY PO BOX\n301 W. Platt St #632 \nTampa FL 33606\n\nINSTAGRAM:\nJaclynhill\n\nTWITTER:\nJaclynhill\n\nSNAPCHAT:\nJaclynrhill\n\nBusiness inquiries only:\nJaclynroxanne.hill@gmail.com\n(I am no longer booking clients)\n\n\n♡ ♡ ♡ \n\n\n* SOME links provided above are affiliate links!  I am compensated based on some affiliate purchases.\n\nMy channel is a fun place for people to enjoy the world of beauty! If you leave mean negative comments or resort to name calling, I will delete your comment & block you. My channel is not the place. This world is so ugly & negative & we desperately need to make a change. I cant control the world, but I can control my channel. Constructive criticism is always welcome! \"you're a lying bitch\" is NOT constructive ! Don't feel like you need to kiss my ass. Feel free to speak your mind but please respect each other! XOXO",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eZbT3TzcSq8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eZbT3TzcSq8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eZbT3TzcSq8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eZbT3TzcSq8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eZbT3TzcSq8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Jaclyn Hill",
+      "tags": ["jaclynhill1", "jaclyn hill", "makeup tutorial", "smokey eye tutorial", "contour face", "morning routine", "how-to", "everyday makeup", "cat eye makeup", "cat makeup", "drugstore makeup", "drugstore", "makeup", "ulta", "morphe", "target"],
+      "categoryId": "26",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "$2,000 DRUGSTORE SHOPPING SPREE WITH MY SUBSCRIBERS!",
+        "description": "For todays video I decided to go shopping at Target & Ulta and buy tons of drugstore makeup based on my subscribers recommendations! I had so much fun doing this & cant wait to play with the products! I hope you enjoy! XO\n\nBUY MY COLLECTIONS HERE:\nhttp://morphebrushes.com/index.php?dispatch=categories.view&category_id=358\nUSE CODE: “JACATTACK” FOR A DISCOUNT\n\n\n♡ ♡ ♡ \n\nCONNECT WITH ME!!!\n\nMY PO BOX\n301 W. Platt St #632 \nTampa FL 33606\n\nINSTAGRAM:\nJaclynhill\n\nTWITTER:\nJaclynhill\n\nSNAPCHAT:\nJaclynrhill\n\nBusiness inquiries only:\nJaclynroxanne.hill@gmail.com\n(I am no longer booking clients)\n\n\n♡ ♡ ♡ \n\n\n* SOME links provided above are affiliate links!  I am compensated based on some affiliate purchases.\n\nMy channel is a fun place for people to enjoy the world of beauty! If you leave mean negative comments or resort to name calling, I will delete your comment & block you. My channel is not the place. This world is so ugly & negative & we desperately need to make a change. I cant control the world, but I can control my channel. Constructive criticism is always welcome! \"you're a lying bitch\" is NOT constructive ! Don't feel like you need to kiss my ass. Feel free to speak your mind but please respect each other! XOXO"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT17M43S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "4267339",
+      "likeCount": "137567",
+      "dislikeCount": "3288",
+      "favoriteCount": "0",
+      "commentCount": "13077"
+    }
+  }, {
+    "kind": "youtube#video",
+    "etag": "_CS9BCeY4WGn75B_T_gXexnijtA",
+    "id": "wYG2A7LCZ6c",
+    "snippet": {
+      "publishedAt": "2018-05-04T10:15:40Z",
+      "channelId": "UCgNta-LDuKzThNq6k43N1AQ",
+      "title": "Make up untuk shopping",
+      "description": "Email : kekeyi.putri23@gmail.com\nInstagram : rahmawatikekeyiputricantikka23",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/wYG2A7LCZ6c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/wYG2A7LCZ6c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/wYG2A7LCZ6c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/wYG2A7LCZ6c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        }
+      },
+      "channelTitle": "rahmawati kekeyi putri cantikka",
+      "categoryId": "26",
+      "liveBroadcastContent": "none",
+      "localized": {
+        "title": "Make up untuk shopping",
+        "description": "Email : kekeyi.putri23@gmail.com\nInstagram : rahmawatikekeyiputricantikka23"
+      }
+    },
+    "contentDetails": {
+      "duration": "PT16M25S",
+      "dimension": "2d",
+      "definition": "sd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "3176831",
+      "likeCount": "45689",
+      "dislikeCount": "18781",
+      "favoriteCount": "0"
+    }
+  }, {
+    "kind": "youtube#video",
+    "etag": "5DXgLykLYs0DAFH6RjMr-D_9eF0",
+    "id": "Zuw1CNg83Lw",
+    "snippet": {
+      "publishedAt": "2018-04-20T22:55:30Z",
+      "channelId": "UC_0mlge_fLewbr5P8YEL2tA",
+      "title": "MAKEUP SHOPPING VLOG WITH MY MOM | WHAT TO BUY FOR YOUR FIRST TEEN MAKEUP KIT!",
+      "description": "Don't forget to subscribe! https://bit.ly/WeissLifeSub\n\nIn today's family vlog - Gabrielle & Mom go shopping for some makeup to make a first makeup starter kit for Gabrielle now that she is 13 years old she has expressed interest in wearing makeup! We show you what to buy and all our favorite drug store brands for tweens and teens and everything else that you should buy when you first start using makeup or try make up for the first time!\n\nWatch our last mother/daughter shopping video here: \nPERIOD KIT SHOPPING VLOG WITH MY MOM | WHAT TO BUY FOR YOUR FIRST PERIOD! https://youtu.be/5MHLUQmVoAQ\n\n↓Our Other Channels↓\nMelissa Weiss: https://www.youtube.com/channel/UCaGkVbFGD9JfRfppLbKR9mA\nJeff Weiss: https://www.youtube.com/channel/UCSLH3SFScL5W1o-ORoyJzPA\n\nThe Weiss Girls: https://www.youtube.com/channel/UCah5-HV5ektOuCByZJcN6fg\n\nOUR WEBSITE! https://www.weisslife.com\n\nMERCH! https://www.weisslife.com/shop\n\n*Follow us on Instagram, Facebook and Twitter to stay up to date on our family and the new baby!\n\nInstagram: http://www.instagram.com/theweissfam\nFacebook: http://www.facebook.com/theweisslife\nTwitter: http://twitter.com/TheWeissLife\nVideo filmed with: Canon PowerShot G7 X Mark II http://amzn.to/2iPmFMO (Affiliate link)\n\nSupport us on Patreon: https://www.patreon.com/theweisslife\n\nSend Us Mail!\n\nThe Weiss Life\n69 Lincoln Blvd. Suite-A #267\nLincoln, CA 95648\n\nFIRST MAKEUP SHOPPING VLOG WITH MY MOM | WHAT TO BUY FOR YOUR TEEN MAKEUP KIT!\n\nTHE WEISS LIFE is a fun family vlog channel that features the Weiss family! We make videos doing fun Challenges, Giveaways, Daily Vlogs, Birthday Parties, Gymnastics, Teen & Tween topics, videos from our Travel Adventures and other Family Fun!\n\nProduction Music courtesy of  \nwww.epidemicsound.com",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Zuw1CNg83Lw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Zuw1CNg83Lw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Zuw1CNg83Lw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Zuw1CNg83Lw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Zuw1CNg83Lw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "THE WEISS LIFE",
+      "tags": ["teen makeup", "makeup starter kit", "make up", "makeup shopping", "first makeup", "makeup tips", "tween", "teen", "makeup tutorial", "family vlog", "the weiss life", "weiss life", "family fun", "family vloggers", "teen channel", "first time", "makeup tips for tweens", "teen makeup routine", "teen makeup tips", "makeup kit", "family vlogger", "daily vlog", "first period", "period kit", "period shopping", "my first period", "youtube family", "first period kit", "what to buy", "teenager", "puberty", "teens", "shopping", "kit", "makeup", "vlog"],
+      "categoryId": "22",
+      "liveBroadcastContent": "none",
+      "defaultLanguage": "en",
+      "localized": {
+        "title": "MAKEUP SHOPPING VLOG WITH MY MOM | WHAT TO BUY FOR YOUR FIRST TEEN MAKEUP KIT!",
+        "description": "Don't forget to subscribe! https://bit.ly/WeissLifeSub\n\nIn today's family vlog - Gabrielle & Mom go shopping for some makeup to make a first makeup starter kit for Gabrielle now that she is 13 years old she has expressed interest in wearing makeup! We show you what to buy and all our favorite drug store brands for tweens and teens and everything else that you should buy when you first start using makeup or try make up for the first time!\n\nWatch our last mother/daughter shopping video here: \nPERIOD KIT SHOPPING VLOG WITH MY MOM | WHAT TO BUY FOR YOUR FIRST PERIOD! https://youtu.be/5MHLUQmVoAQ\n\n↓Our Other Channels↓\nMelissa Weiss: https://www.youtube.com/channel/UCaGkVbFGD9JfRfppLbKR9mA\nJeff Weiss: https://www.youtube.com/channel/UCSLH3SFScL5W1o-ORoyJzPA\n\nThe Weiss Girls: https://www.youtube.com/channel/UCah5-HV5ektOuCByZJcN6fg\n\nOUR WEBSITE! https://www.weisslife.com\n\nMERCH! https://www.weisslife.com/shop\n\n*Follow us on Instagram, Facebook and Twitter to stay up to date on our family and the new baby!\n\nInstagram: http://www.instagram.com/theweissfam\nFacebook: http://www.facebook.com/theweisslife\nTwitter: http://twitter.com/TheWeissLife\nVideo filmed with: Canon PowerShot G7 X Mark II http://amzn.to/2iPmFMO (Affiliate link)\n\nSupport us on Patreon: https://www.patreon.com/theweisslife\n\nSend Us Mail!\n\nThe Weiss Life\n69 Lincoln Blvd. Suite-A #267\nLincoln, CA 95648\n\nFIRST MAKEUP SHOPPING VLOG WITH MY MOM | WHAT TO BUY FOR YOUR TEEN MAKEUP KIT!\n\nTHE WEISS LIFE is a fun family vlog channel that features the Weiss family! We make videos doing fun Challenges, Giveaways, Daily Vlogs, Birthday Parties, Gymnastics, Teen & Tween topics, videos from our Travel Adventures and other Family Fun!\n\nProduction Music courtesy of  \nwww.epidemicsound.com"
+      },
+      "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+      "duration": "PT29M39S",
+      "dimension": "2d",
+      "definition": "hd",
+      "caption": "false",
+      "licensedContent": true,
+      "contentRating": {},
+      "projection": "rectangular"
+    },
+    "statistics": {
+      "viewCount": "2211930",
+      "likeCount": "31601",
+      "dislikeCount": "1769",
+      "favoriteCount": "0"
+    }
+  }],
+  "pageInfo": {
+    "totalResults": 10,
+    "resultsPerPage": 10
+  }
+}
