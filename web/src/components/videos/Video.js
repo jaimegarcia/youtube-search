@@ -23,7 +23,6 @@ const useStyles = makeStyles((theme) => ({
 
 export default function Video({video}) {
   const classes = useStyles();
-  console.log("image",video.image)
   return (
     <Card className={classes.root} elevation={0}>
         <img
@@ -34,13 +33,13 @@ export default function Video({video}) {
           <Typography component="h5" variant="h5">
             {video.title}
           </Typography>
-          <Typography component="subtitle1" variant="subtitle1">
+          <Typography component="h5" variant="h5">
             {video.channel_title}
           </Typography>
-          <Typography variant="subtitle1" color="textSecondary">
+          <Typography variant="h5" color="textSecondary">
           {video.view_count}
           </Typography>
-          <Typography variant="subtitle1" color="textSecondary">
+          <Typography variant="h5" color="textSecondary">
           {moment(video.published_at).startOf("hour").fromNow()}
           </Typography>
         </CardContent>
