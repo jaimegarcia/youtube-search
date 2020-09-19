@@ -428,7 +428,7 @@ class TestYoutubeSearchHelpers(unittest.TestCase):
 
     videos_data=[{
       "id":"gSa0e34EZyQ",
-      "title": "Pari&#39;s Magical Beauty Parlour | Pari Doing Makeup | Funny Video",
+      "title": "Pari's Magical Beauty Parlour | Pari Doing Makeup | Funny Video",
       "description": "In today's Video i have opened a Beauty Parlour and i am doing very beautiful makeup of customers . So watch it and enjoy. Links to buy the products = 1. Magic ...",
       "channel_title": "Pari's Lifestyle",
       "image_low_res": "https://i.ytimg.com/vi/gSa0e34EZyQ/mqdefault.jpg",

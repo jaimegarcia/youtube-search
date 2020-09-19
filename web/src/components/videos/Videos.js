@@ -19,8 +19,9 @@ function Videos() {
   const [errorMessage,setErrorMessage]= useState(null);
 
   const searchVideos = async(searchQuery) =>{
-    if(searchQuery!==""){
+    if(searchQuery!=="" && searchQuery!==query){
       setVideos([]);
+      setPageToken(null);
       setQuery(searchQuery);
       const data=await fetchVideos(searchQuery);
       if(!data.error){
@@ -40,7 +41,6 @@ function Videos() {
 
   const loadItems=async(page) => {
     if(videos.length<200){
-      console.log("entro aqui")
       let allVideos=videos;
       const data=await fetchVideos(query,pageToken);
       if(!data.error){
@@ -59,7 +59,6 @@ function Videos() {
       setVideos(allVideos);
     }
   }
-  console.log("viodeo",videos,errorMessage)
   return (
     <div>
       <Search searchVideos={searchVideos}></Search>
@@ -72,7 +71,6 @@ function Videos() {
           hasMore={hasMoreVideos}
           loader={<Loader/>}
           >
-            {videos.length}
           <div>
               {videos.map((video)=><Video key={video.id+Math.random()} video={video}/>)}
           </div>

@@ -2,6 +2,20 @@ version: '3.7'
 networks:
   youtube_net:
 services:
+  youtube_web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    ports:
+     - "3000:3000"
+    environment:
+    - NODE_ENV=development
+    stdin_open: true
+    networks:
+    - youtube_net
+    volumes:
+     - ./web:/web
+     - /web/node_modules
   youtube_server:
     build:
       context: ./server
