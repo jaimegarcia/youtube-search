@@ -9,18 +9,22 @@ The DEMO is available in a link provided by email.
 
 
 **Search Input**
+
 ![alt text](https://github.com/jaimegarcia/youtube-search/blob/master/images/makrwatch-1.png?raw=true)
 
 
 **Web Desktop**
+
 ![alt text](https://github.com/jaimegarcia/youtube-search/blob/master/images/makrwatch-2.png?raw=true)
 
 
 **Web Tablet**
+
 ![alt text](https://github.com/jaimegarcia/youtube-search/blob/master/images/makrwatch-3.png?raw=true)
 
 
 **Web Mobile**
+
 ![alt text](https://github.com/jaimegarcia/youtube-search/blob/master/images/makrwatch-4.png?raw=true)
 
 
